@@ -101,7 +101,6 @@ Para agregar un nuevo comando:
 2. Agrega un bloque `elif` con el nuevo comando.
 3. Usa `self.write()` para imprimir la salida.
 
-> 💡 Recomendación: usar un diccionario de funciones si los comandos crecen en número.
 
 ---
 
